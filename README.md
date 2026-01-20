@@ -61,7 +61,7 @@ home-services-marketplace/
 
 ## Usage
 
--Create Booking: Enter customer name and service type → Click Create.
--Booking Actions: Assign, Accept, Reject, Complete, Cancel, Retry based on status.
--Admin Override: Force any booking to a desired status using admin buttons.
--History: Click History to view all past state changes with timestamps.
+- Create Booking: Enter customer name and service type → Click Create.
+- Booking Actions: Assign, Accept, Reject, Complete, Cancel, Retry based on status.
+- Admin Override: Force any booking to a desired status using admin buttons.
+- History: Click History to view all past state changes with timestamps.
